@@ -1,16 +1,21 @@
 ## Hi there 👋
+    I am Nivethitha Rayappan.
+    
+👩‍💻 About Me
 
-<!--
-**nivethitha-rayappan/nivethitha-rayappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science and Engineering --- Karunya Institute
+of Technology and Sciences
 
-Here are some ideas to get you started:
+💼 Junior software Engineer at Cognizant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Fullstack developer
+
+🤖 Interested in AI/ML, Agentic AI & RAG
+
+🔗 Experienced in building RESTful APIs and enterprise
+applications
+
+📊 Interested in data-driven applications and intelligent automation
+
+🌱 Always learning and building projects that solve real-world
+problems
