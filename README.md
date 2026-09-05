@@ -15,6 +15,8 @@
 
     📊 Interested in data-driven applications and intelligent automation
 
+    🌱 Always learning and building projects that solve real-world problems
+
     
 
 
@@ -29,7 +31,6 @@
 
 
 
-🌱 Always learning and building projects that solve real-world
-problems
+
     
 
